@@ -4,18 +4,18 @@ The ultimate modular business suite built with FilamentPHP — open source, scal
 
 Filament Suite is an ambitious, full-featured application framework built on FilamentPHP, designed to power business platforms across diverse domains including:
 
-**🛒 E-commerce
-💳 Banking / FinTech
-🏥 Healthcare
-🎓 Education / LMS
-🛠 SaaS & Project Management
-🏨 Hospitality / Hotels
-🚚 Logistics
-🎥 Media / Streaming
-🏭 Manufacturing
-🏠 Real Estate
-👥 Social Media
-👔 HR / Recruitment**
+* **🛒 E-commerce**
+* **💳 Banking / FinTech**
+* **🏥 Healthcare**
+* **🎓 Education / LMS**
+* **🛠 SaaS & Project Management**
+* **🏨 Hospitality / Hotels**
+* **🚚 Logistics**
+* **🎥 Media / Streaming**
+* **🏭 Manufacturing**
+* **🏠 Real Estate**
+* **👥 Social Media**
+* **👔 HR / Recruitment**
 
 ## 🔧 Features
 
