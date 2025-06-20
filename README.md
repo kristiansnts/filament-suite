@@ -19,11 +19,11 @@ Filament Suite is an ambitious, full-featured application framework built on Fil
 
 ## 🔧 Features
 
-📦 Modular architecture for easy domain-based plug-ins
-🧠 Powered by FilamentPHP's robust admin panel ecosystem
-🔐 Secure, scalable, and extendable core
-🌍 Multi-tenant ready (SaaS support)
-🎯 Built for real-world business logic, not just demos
+* 📦 Modular architecture for easy domain-based plug-ins
+* 🧠 Powered by FilamentPHP's robust admin panel ecosystem
+* 🔐 Secure, scalable, and extendable core
+* 🌍 Multi-tenant ready (SaaS support)
+* 🎯 Built for real-world business logic, not just demos
 
 ## 🚀 Why Filament Suite?
 
